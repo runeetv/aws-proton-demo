@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YM0u7EA67awz9jFYHA5lGlzZyslSHuXbY9B+i81nlkAihEL94EOU6mkYdaV8i5GffLqNs2fJ2XB0221D1Qvvig==",
+  "success": true,
+  "projectFilePath": "C:\\repos\\aws-proton-demo\\aws-proton-demo-app\\aws-proton-demo-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\runeetv\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
